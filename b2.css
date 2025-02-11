@@ -1,0 +1,13 @@
+*{
+    background-color: black;
+}
+
+#heading{
+    color: white;
+}
+
+.paragraph{
+    color: rgb(12, 212, 12);
+    text-decoration:underline aqua;
+    text-decoration-style: dotted;
+}
